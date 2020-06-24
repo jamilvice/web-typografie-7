@@ -1,8 +1,6 @@
 # web-typografie-herkansing
 
 
-# web-typografie-5
-
 # Voices
 In het fragment werk ik met verschillende lettertypes binnen de Brenner font. 
 Voice1, is de class die ik aan de robot/machine stem heb gegeven.
